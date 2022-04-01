@@ -1,5 +1,9 @@
 #include <stdio.h>
+<<<<<<< HEAD
 #include "main.h"
+=======
+#include "holberton.h"
+>>>>>>> 2eda2a2455c4a33b775b93b1a0be45135827e9d6
 
 /**
  * _atoi - converts a string to an integer
